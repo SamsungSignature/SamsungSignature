@@ -1,0 +1,3 @@
+[submodule "SamsungSignature-Backend-VanService"]
+	path = SamsungSignature-Backend-VanService
+	url = https://github.com/SamsungSignature/SamsungSignature-Backend-VanService
