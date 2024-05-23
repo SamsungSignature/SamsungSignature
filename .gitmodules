@@ -1,3 +1,21 @@
 [submodule "SamsungSignature-Backend-VanService"]
 	path = SamsungSignature-Backend-VanService
 	url = https://github.com/SamsungSignature/SamsungSignature-Backend-VanService
+[submodule "SamsungSignature-Backend-WalletService"]
+	path = SamsungSignature-Backend-WalletService
+	url = https://github.com/SamsungSignature/SamsungSignature-Backend-WalletService
+[submodule "SamsungSignature-Backend-SignatureService"]
+	path = SamsungSignature-Backend-SignatureService
+	url = https://github.com/SamsungSignature/SamsungSignature-Backend-SignatureService
+[submodule "SamsungSignature-Backend-AuthService"]
+	path = SamsungSignature-Backend-AuthService
+	url = https://github.com/SamsungSignature/SamsungSignature-Backend-AuthService
+[submodule "SamsungSignature-Infrastructure-ApigatewayService"]
+	path = SamsungSignature-Infrastructure-ApigatewayService
+	url = https://github.com/SamsungSignature/SamsungSignature-Infrastructure-ApigatewayService
+[submodule "SamsungSignature-Infrastructure-ConfigService"]
+	path = SamsungSignature-Infrastructure-ConfigService
+	url = https://github.com/SamsungSignature/SamsungSignature-Infrastructure-ConfigService
+[submodule "SamsungSignature-Infrastructure-EurekaService"]
+	path = SamsungSignature-Infrastructure-EurekaService
+	url = https://github.com/SamsungSignature/SamsungSignature-Infrastructure-EurekaService
