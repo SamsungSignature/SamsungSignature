@@ -19,3 +19,9 @@
 [submodule "SamsungSignature-Infrastructure-EurekaService"]
 	path = SamsungSignature-Infrastructure-EurekaService
 	url = https://github.com/SamsungSignature/SamsungSignature-Infrastructure-EurekaService
+[submodule "SamsungSignature-Frontend-WalletService"]
+	path = SamsungSignature-Frontend-WalletService
+	url = https://github.com/SamsungSignature/SamsungSignature-Frontend-WalletService
+[submodule "SamsungSignature-Frontend-SignatureService"]
+	path = SamsungSignature-Frontend-SignatureService
+	url = https://github.com/SamsungSignature/SamsungSignature-Frontend-SignatureService
